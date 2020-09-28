@@ -6,7 +6,7 @@
 
 **Fecha:** 28/09/2020
 
-**Resumen del Ejercicio:** El laboratorio se compone de tres ejercicios. En el ejercicio 1 Se le aplica el estilo a la barra de navegación. En el ejercicio 2 Se aplica el estilo al boton del estilo y en el ejercicio 3
+**Resumen del Ejercicio:** El laboratorio se compone de tres ejercicios. En el ejercicio 1 Se le aplica el estilo a la barra de navegación. En el ejercicio 2 Se aplica el estilo al boton del estilo y en el ejercicio 3 Se aplica el estilo a la pagina about
 
 **Dificultad o problemas presentados y como se resolvieron:** Ninguna
 
@@ -15,4 +15,4 @@
 - Ejercicio 2
   - Se aplica el estilo al boton del estilo
 - Ejercicio 3
-  - 
+  - Se aplica el estilo a la pagina about
